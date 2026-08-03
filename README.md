@@ -401,20 +401,3 @@ Techno Main Salt Lake
 5. Boylestad, R., *Electronic Devices and Circuit Theory*, Pearson.
 
 ---
-
-# ⭐ Support
-
-If you found this project useful, consider giving it a **⭐ Star** on GitHub. It helps others discover the project and motivates further improvements.
-
----
-
-### Suggested enhancements for a standout GitHub repository
-
-To make the repository look like a professional engineering portfolio, add:
-
-* A banner image at the top (e.g., a rendered PCB or oscilloscope waveforms).
-* Real photos of the assembled circuit.
-* Oscilloscope captures of the square, triangle, and sine outputs.
-* PCB screenshots (top, bottom, and 3D views).
-* A short demo video or GIF showing the waveforms changing as the potentiometer is adjusted.
-* Simulation files (Proteus/LTspice) and Gerber files for PCB fabrication. These additions significantly improve the repository's presentation for recruiters and project evaluators.
