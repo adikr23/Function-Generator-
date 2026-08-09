@@ -164,9 +164,7 @@ Triangle Wave
 
 # 🔌 Circuit Diagram
 
-```markdown
-![Circuit Diagram](images/Circuit_Diagram.png)
-```
+![Circuit Diagram](images/Schematic_view.jpg)
 
 ---
 
@@ -319,13 +317,13 @@ Function-Generator-Using-LM741/
 
 ## Hardware
 
-![Hardware](images/Schematic_view.jpg)
+![Hardware](images/bread_board_circuit.jpg)
 
 ---
 
 ## Layout
 
-![PCB](images/PCB_layout.jpg)
+![LAYOUT](images/PCB_layout_view.jpg)
 
 ---
 
