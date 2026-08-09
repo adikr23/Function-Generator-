@@ -347,7 +347,7 @@ Function-Generator-Using-LM741/
 
 ## Sine Wave
 
-![Sine Wave](images/sine_waves.jpg)
+![Sine Wave](images/sine_wave.jpg)
 
 ---
 
