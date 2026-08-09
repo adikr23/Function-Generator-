@@ -319,41 +319,37 @@ Function-Generator-Using-LM741/
 
 ## Hardware
 
-```markdown
-![Hardware](images/Hardware.jpg)
-```
+![Hardware](images/Schematic_view.jpg)
+
+---
+
+## Layout
+
+![PCB](images/PCB_layout.jpg)
 
 ---
 
 ## PCB
 
-```markdown
-![PCB](pcb/PCB_3D.png)
-```
+![PCB](images/3D_PCB_View.png)
 
 ---
 
 ## Square Wave
 
-```markdown
-![Square Wave](images/SquareWave.png)
-```
+![Square Wave](images/square_waves.jpg)
 
 ---
 
 ## Triangle Wave
 
-```markdown
-![Triangle Wave](images/TriangleWave.png)
-```
+![Triangle Wave](images/triangular_waves.jpg)
 
 ---
 
 ## Sine Wave
 
-```markdown
-![Sine Wave](images/SineWave.png)
-```
+![Sine Wave](images/sine_waves.jpg)
 
 ---
 
