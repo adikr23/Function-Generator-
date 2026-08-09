@@ -1,7 +1,7 @@
 # Function Generator Using LM741 Operational Amplifiers
 
 <p align="center">
-  <img src="images/Hardware.jpg" width="700">
+  
 </p>
 
 <p align="center">
